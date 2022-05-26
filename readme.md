@@ -1,4 +1,6 @@
-# Three.js Starter
+# Three.js Starter to post process 1 million polygons with an audio analyser object
+
+Interactive UIUX https://www.shanebrumback.com
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
@@ -8,6 +10,9 @@ Run this followed commands:
 ``` bash
 # Install dependencies (only the first time)
 npm install
+
+# Install dependencies (only the first time)
+npm i webpack
 
 # Run the local server at localhost:8080
 npm run dev
