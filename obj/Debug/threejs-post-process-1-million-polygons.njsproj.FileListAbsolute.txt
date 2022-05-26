@@ -1,3 +1,0 @@
-C:\Users\brumb\source\repos\threejs-webpack-audio-analyser\obj\Debug\threejs-post-process-1-million-polygons.njsproj.AssemblyReference.cache
-C:\Users\brumb\source\repos\threejs-webpack-audio-analyser\obj\Debug\threejs-post-process-1-million-polygons.njsproj.CoreCompileInputs.cache
-C:\Users\brumb\source\repos\threejs-webpack-audio-analyser\bin\Microsoft.NodejsTools.WebRole.dll

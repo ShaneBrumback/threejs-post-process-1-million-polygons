@@ -1,4 +1,4 @@
-# Three.js Starter to Post Process 1 Million Polygons With an Audio Analyser
+# Three.js Starter to Post Processing 1 Million Polygons With an Audio Analyser
 
 Demo
 https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
@@ -6,9 +6,14 @@ https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
 Interactive UIUX 
 https://www.shanebrumback.com
 
+YouTube Channel
+https://www.youtube.com/channel/UC5kqNYlnPWrL46eTKjTEPHg
+
+Prototype Multiplayer Battle Game using Three.js
+https://www.shanebrumback.com/super-soldier-battle-intro.html
+
 Original Starter Project 
 https://github.com/designcourse/threejs-webpack-starter
-
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
