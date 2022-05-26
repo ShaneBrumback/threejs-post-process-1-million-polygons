@@ -1,5 +1,7 @@
 # Three.js Starter for Post Processing 1 Million Polygons With an Audio Analyser
 
+<img src="/assets/post-processing-1-million-polygons.jpg" alt="ThreeJS Post Processing 1 Million Polygons" title="ThreeJS Post Processing 1 Million Polygons">
+
 Demo
 https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
 
