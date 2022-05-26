@@ -1,0 +1,234 @@
+﻿
+
+body, html {
+    overflow: hidden;
+    margin: 0;
+    background: black;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#divHeader {
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 50%;
+    font-size: 4vw;
+    line-height: 90%;
+    font-family: 'Koulen', Arial;
+    padding: 1vh;
+    background: rgba(47,79,79, .50);
+    box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa;
+  
+}
+
+
+#divArtlist {
+    position: fixed;
+    top: 70%;
+    left: 20%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 25%;
+    font-size: 2vw;
+    line-height: 90%;
+    font-family: 'Koulen', Arial;
+    padding: 1vh;
+    background: rgba(47,79,79, .50);
+    box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa;
+}
+
+
+#divGameTop {
+    position: fixed;
+    top: 20%;
+    left: 85%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 15%;
+    font-size: 1.5vw;
+    line-height: 90%;
+    font-family: 'Koulen', Arial;
+    padding: 1vh;
+    background: rgba(47,79,79, .50);
+    box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa;
+}
+
+#divGameBottom {
+    position: fixed;
+    top: 80%;
+    left: 85%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 15%;
+    font-size: 1.5vw;
+    line-height: 90%;
+    font-family: 'Koulen', Arial;
+    padding: 1vh;
+    background: rgba(47,79,79, .50);
+    box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa;
+}
+
+
+
+#divShaneBrumback {
+    color: white;
+    width: 100%;
+    font-size: 2vw;
+    font-family: 'Koulen', Arial;
+}
+
+
+
+#divPlayButton {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 5vw;
+    z-index: 2000;
+}
+
+
+#divGui {
+    position: fixed;
+    width: 50%;
+    height: 50%;
+    color: white;
+    font-size: 1.5vw;
+    border-color: gray;
+    white-space: nowrap;
+    vertical-align: middle;
+   
+}
+
+#gui {
+    position: absolute;
+    top: 20vh;
+    left: 2px;
+    background: rgba(18,10,143, .50);
+}
+
+#stats {
+    position: absolute;
+    top: 20vh;
+    left: 100px;
+    background: rgba(18,10,143, .50);
+}
+
+#divRange {
+    min-height: 2vh;
+    background: rgba(18,10,143, .50);
+    box-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #0fa;
+   
+}
+
+
+#divFooter {
+    display: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    #divHeader {
+        position: fixed;
+        top: 8%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        color: white;
+        width: 90%;
+        font-size: 8vw;
+        position: fixed;
+        line-height: 90%;
+        text-align: left;
+        font-family: 'Koulen', Arial;
+        padding: 1vh;
+        background: rgba(47,79,79, .50);
+        box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa
+    }
+
+    #divFooter {
+        display: block;
+        color: white;
+        text-align: center;
+        width: 90%;
+        font-size: 7vw;
+        position: fixed;
+        bottom: 10px;
+        left: 10px;
+        line-height: 90%;
+        text-align: left;
+        font-family: 'Koulen', Arial;
+        background: rgba(47,79,79, .50);
+        box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0faa;
+        padding: 1vh;
+    }
+
+
+    #divPlayButton {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        color: white;
+        font-size: 15vw;
+        z-index: 2000;
+    }
+
+    #divShaneBrumback {
+        color: white;
+        width: 100%;
+        font-size: 4vw;
+        font-family: 'Koulen', Arial;
+    }
+
+
+    #divGui {
+        display: none;
+    }
+
+    #divGameTop {
+        display: none;
+    }
+
+    #divGameBottom {
+        display: none;
+    }
+
+
+    #divRangeFooter {
+        padding-top: 5px;
+        min-height: 2vh;
+        background: rgba(18,10,143, .50);
+        box-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #0fa;
+    }
+
+    #imgArtlist {
+        display: none;
+    }
+
+
+    #divArtlist {
+
+        display: none;
+    }
+
+
+}
+
+
