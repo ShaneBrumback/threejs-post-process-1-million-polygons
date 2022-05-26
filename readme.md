@@ -1,5 +1,7 @@
 # Three.js Starter to post process 1 million polygons with an audio analyser object
 
+https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
+
 Interactive UIUX https://www.shanebrumback.com
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
