@@ -1,4 +1,4 @@
-# Three.js Starter to post process 1 million polygons with an audio analyser
+# Three.js Starter to Post Process 1 Million Polygons With an Audio Analyser
 
 Demo
 https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
@@ -6,7 +6,7 @@ https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html
 Interactive UIUX 
 https://www.shanebrumback.com
 
-Orignial Starter Project 
+Original Starter Project 
 https://github.com/designcourse/threejs-webpack-starter
 
 
