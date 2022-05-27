@@ -2,7 +2,7 @@
 
 <img src="/assets/post-processing-1-million-polygons.jpg" alt="ThreeJS Post Processing 1 Million Polygons" title="ThreeJS Post Processing 1 Million Polygons">
 
-Demo: <a href='https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html'>Here</a>
+Demo: <a href='https://www.shanebrumback.com/post-processing-1-million-polygons-threejs.html' target='_blank'>Here</a>
 
 Interactive UIUX 
 https://www.shanebrumback.com
