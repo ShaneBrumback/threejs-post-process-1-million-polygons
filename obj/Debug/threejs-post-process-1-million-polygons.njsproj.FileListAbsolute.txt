@@ -1,0 +1,3 @@
+C:\Users\brumb\source\repos\threejs-post-process-1-million-polygons\obj\Debug\threejs-post-process-1-million-polygons.njsproj.AssemblyReference.cache
+C:\Users\brumb\source\repos\threejs-post-process-1-million-polygons\obj\Debug\threejs-post-process-1-million-polygons.njsproj.CoreCompileInputs.cache
+C:\Users\brumb\source\repos\threejs-post-process-1-million-polygons\bin\Microsoft.NodejsTools.WebRole.dll
