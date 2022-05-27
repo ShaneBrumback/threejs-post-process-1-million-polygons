@@ -23,9 +23,7 @@ Run this followed commands:
 ``` bash
 # Install dependencies (only the first time)
 npm install
-
-# Install dependencies (only the first time)
-npm i webpack
+npm install --save-dev webpack
 
 # Run the local server at localhost:8080
 npm run dev
